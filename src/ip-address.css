@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-size: 7.5vw;
+  letter-spacing: -0.04em;
+  margin: 0 0 1.5rem 0;
+}
+
+p {
+  text-align: center;
+  font-size: 21px;
+  opacity: .75;
+}
